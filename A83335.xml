@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance with severall propositions of the Lords and Commons assembled in Parliament, for the speedy raising of forces by sea and land, to reduce the town of Newcastle to obedience to the King and Parliament. In the recovery whereof all persons are so much interessed, that it is hoped none will be backward to contribute their best assistance towards the performance thereof, that so coales may again be bought at an easie rate, to the great benefit of the poore aswell as rich, according to true intent and meaning of this ordinance. Die Lunæ, 5 Jun. 1643. Ordered by the Lords and Commons assembled in Parliament, that this ordinance with the propositions shall be forthwith printed and published. J. Brown Cler. Parliamentorum</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83335</idno>
+            <idno type="STC">Wing E2116</idno>
+            <idno type="STC">Thomason E105_18</idno>
+            <idno type="STC">ESTC R22126</idno>
+            <idno type="EEBO-CITATION">99871598</idno>
+            <idno type="PROQUEST">99871598</idno>
+            <idno type="VID">155964</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83335)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155964)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E105[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance with severall propositions of the Lords and Commons assembled in Parliament, for the speedy raising of forces by sea and land, to reduce the town of Newcastle to obedience to the King and Parliament. In the recovery whereof all persons are so much interessed, that it is hoped none will be backward to contribute their best assistance towards the performance thereof, that so coales may again be bought at an easie rate, to the great benefit of the poore aswell as rich, according to true intent and meaning of this ordinance. Die Lunæ, 5 Jun. 1643. Ordered by the Lords and Commons assembled in Parliament, that this ordinance with the propositions shall be forthwith printed and published. J. Brown Cler. Parliamentorum</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Wright in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iune 8. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Newcastle upon Tyne (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155964:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE with ſeverall PROPOSITIONS Of the LORDS and COMMONS Aſſembled in Parliament,</p>
+            <p>For the ſpeedy raiſing of Forces by Sea and Land, to reduce the Town of <hi>Newcaſtle</hi> to obedience to the King and Parliament.</p>
+            <p>In the recovery whereof all perſons are ſo much intereſſed, that it is hoped none will be backward to contribute their beſt aſſiſtance towards the perfor<g ref="char:EOLhyphen"/>mance thereof, that ſo Coales may again be bought at an eaſie rate, to the great benefit of the poore aſwell as rich, according to true intent and meaning of this Ordinance.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Die Lunae, 5 Jun. 1643.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>ORdered by the Lords and Commons aſſembled in Parliament, that this Ordinance with the Propoſitions ſhall be forthwith printed and pub<g ref="char:EOLhyphen"/>liſhed.</hi>
+                  </p>
+                  <closer>
+                     <signed>J. Brown Cler. Parliamentorum.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>I. Wright</hi> in the Old-baily, <hi>Iune</hi> 8. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:155964:2"/>
+            <pb facs="tcp:155964:2"/>
+            <head>AN ORDINANCE with ſundry PROPOSITIONS OF THE Lords and Commons Aſſembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the greateſt part of this Kingdom, and more eſpecially the City of <hi>London</hi> and moſt Maritine Towns are ſerved and furniſhed with Coales from the Town of <hi>Newcaſtle</hi> upon <hi>Tine,</hi> and the adjacent parts of <hi>Northumberland,</hi> and the Biſhopricke of <hi>Durham,</hi> which being now kept by Forces conſiſt<g ref="char:EOLhyphen"/>ing of Papiſts, and other ill affected perſons, under the command of the Earle of <hi>Newcaſtle,</hi> the City of <hi>London</hi> and all the greateſt part of this Kingdome are like to ſuffer very deeply in the want of that Commodity ſo abſolutely neceſſary to the maintainance and
+<pb facs="tcp:155964:3"/>ſupport of life, and which is like to be of very dangerous conſe<g ref="char:EOLhyphen"/>quence in the influence which it may have upon the neceſſities of the meaner ſort. And wheras it is alſo very dangerous to adventure ſhipping within the command of the Forts there erected, as being ſubjected to a ſurprize, and like enough to be made uſe of againſt the ſafety of the kingdome, if they ſhould make their voyage onely man'd as uſually for trade; And how great uſe hath been made of the port of <hi>Newcaſtle,</hi> to the danger of the kingdome, ſince it came into the hands of the ſaid Earle is manifeſt to all. It is therefore hoped that there are none that will be backward to contribute their beſt aſſiſtance towards the reducing of that place, in the recovery whereof all men are intereſſed, and the rather for the opportunity that is now given, if it be ſpeedily undertaken, and effectually proſecuted. And whereas in obe<g ref="char:EOLhyphen"/>dience to an Order of the Houſe of Commons the Committee of the Navy communicated their opinions in writing to the Lord Major of <hi>London</hi> by what meanes the ſaid City may be furniſhed with Coales, with deſire that his Lordſhip would impart the ſame to the Aldermen of that City, or ſuch other perſons as his Lord<g ref="char:EOLhyphen"/>ſhip ſhould thinke fit, which Writing with the Petition and Pro<g ref="char:EOLhyphen"/>poſitions of divers Citizens of <hi>London,</hi> were read at a Common-Councell, held at <hi>Guildhall</hi> in <hi>London</hi> ſhe twentieth of this moneth, where the ſaid Court taking all the premiſes into their ſerious conſideration did conceive that this great worke might be effect<g ref="char:EOLhyphen"/>ed if both Houſes of Parliament ſhould thinke fit to approve of theſe enſuing Propoſitions. Wherefore the Lords and Commons in Parliament aſſembled, upon mature'd liberation had of the Propoſitions following, and well approving the good affections of the City of <hi>London</hi> to the publique ſervice, and of all ſuch other well affected perſons as ſhall ſubſcribe and pay in any conſide<g ref="char:EOLhyphen"/>rable ſumme of money according to the enſuing Propoſitions, for and towards this great and neceſſary undertaking, doe Order and Ordaine in manner and forme following: And firſt the Houſe of Commons doe conſent to nominate ten of their owne Mem<g ref="char:EOLhyphen"/>bers, And the Lords and Commons doe order and ordaine, that
+<pb facs="tcp:155964:3"/>the Common-Councell of <hi>London</hi> ſhall nominate a like number for the City, to be as a Committee joyntly to mannage all affaires touching this Adventure, and to call to their Aſſiſtance in this ſer<g ref="char:EOLhyphen"/>vice ſuch of the out-Ports or others as they ſhall thinke fit.</p>
+            <p n="2">2. That the ſaid Committee ſo to be nominated ſhall have po<g ref="char:EOLhyphen"/>wer to make Sub-committees among themſelves, and to give them ſuch inſtructions as they ſhall thinke fit, being purſuant and agreeable to theſe Propoſitions, and to prepare bookes for ſuch ſubſcriptions to appoint perſons from time to time in all places to take the ſame, and to receive all ſuch moneys as ſhall be ſubſcri<g ref="char:EOLhyphen"/>bed and payd in according to ſuch ſubſcriptions, and to returne or iſſue out the ſame to ſuch perſons, and in ſuch manner as the ſaid Committee or the greater number of them ſhall direct.</p>
+            <p n="3">3. That all moneys to be advanced upon theſe Propoſitions ſhall be paid to ſuch Treaſurers as the ſaid Committee ſhall appoint, and ſhall be onely imployed by the ſaid Committee for the redu<g ref="char:EOLhyphen"/>cing of the ſaid Town of <hi>Newcaſtle,</hi> and the ſaid parts adjacent till the ſame be effected, and to none other purpoſe whatſoever.</p>
+            <p n="4">4. That they ſhal be accountable to ſuch perſons as ſhal be ap<g ref="char:EOLhyphen"/>pointed by both Houſes; That every Owner or Maſter, of or in any Ship or Ship trading for Coler, Salt or Glaſſe, to the Towns of <hi>New<g ref="char:EOLhyphen"/>caſtle, Sunderland</hi> or <hi>Blith</hi> or to any place adjacent now under the power of the E. of <hi>Newcaſtle,</hi> &amp; not ſubſcribing one half of his ſtock which he hath in any ſuch Shippe or Ships, to theſe Propoſitions, within one moneth after theſe Propoſitions ſhall be agreed upon by the Lords and Commons in Parliament, ſhall pay to the perſons to be appointed by the ſaid Committee to receive the ſame, for every Chaldron of Coales he ſhall ſo buy there the ſum of foure ſhillings, and for every weigh of Salt two ſhillings, and for every caſe of Glaſſe one ſhilling more then ſhall be paid by any Adven<g ref="char:EOLhyphen"/>turer that ſhall buy there any of the ſaid Commodities of Coales, Salt, or Glaſſe; The ſaid payments to be made to the uſe of the Adventurers upon Accounts, and to continue till the ſaid Ad<g ref="char:EOLhyphen"/>venturers ſhall be reimburſed, according to the enſuing propoſiti<g ref="char:EOLhyphen"/>ons, and no longer.</p>
+            <p n="5">
+               <pb facs="tcp:155964:4"/> 5. That every perſon within the ſaid City of <hi>London,</hi> or ten miles thereof, or within ſuch of the out-Ports or Cities, or dwel<g ref="char:EOLhyphen"/>ling upon any navigable River, or within five miles of any of them which have or ſhall have their Coals from any of the ſaid Towns of <hi>New-Caſtle, Sunderland, Blith,</hi> or places adjacent, which ſhall not ſubſcribe to theſe Propoſitions within one moneth after the ſame ſhall be agreed upon by both Houſes of Parliament, a ſumme of Money at leaſt proportionable to the Coals he annual<g ref="char:EOLhyphen"/>ly expends in his houſe in the judgement of the ſaid Committee (ſuch as are not Subſidie-men onely excepted) ſhall pay ten ſhil<g ref="char:EOLhyphen"/>lings for every Chaldron of Coals more then others ſhall pay that doe ſubſcribe, the ſame Paiments to bee made and collected to the uſe of the Adventurers upon accompt, in ſuch manner as the ſaid Committee ſhall appoint, and to continue untill the ſaid Adventurers ſhall be reimburſed according to the inſuing Propo<g ref="char:EOLhyphen"/>ſitions, and no longer.</p>
+            <p n="6">6. That if any Subſcriber ſhall uſe any fradulent or indirect means to furniſh any other perſon with Coals, that ſhall not ſub<g ref="char:EOLhyphen"/>ſcribe within the time before limited, ſuch Subſcriber ſhall forfeit the benefit of his own Subſcription, and both parties ſhall be li<g ref="char:EOLhyphen"/>able to ſuch further puniſhment as ſhall be inflicted by both Hou<g ref="char:EOLhyphen"/>ſes of Parliament.</p>
+            <p n="7">7 That no perſon ſhall be permitted to ſell Coals in <hi>London,</hi> or any other port or place, which is or ſhall be furniſhed with Coals from the ſaid Towns of <hi>Newcaſtle, Sunderland, Blith,</hi> and places adjacent, unleſſe ſuch as ſhall ſubſcribe a ſum proportionable to their trade, in the judgement of the ſaid Committee.</p>
+            <p n="8">8. That two parts of the eſtates of Papiſts, not Delin<g ref="char:EOLhyphen"/>quents, and all the eſtates of ſuch as are declared to bee De<g ref="char:EOLhyphen"/>linquents, by the Ordinance of Sequeſtration within the County of <hi>Northumberland,</hi> the County and Biſhoprick of <hi>Dur<g ref="char:EOLhyphen"/>ham,</hi> and in the Towne and County of <hi>New caſtle</hi> upon <hi>Tyne,</hi> ſhall bee forthwith ſequeſtred, and all ſuch Moneys as ſhall be raiſed thereby, ſhall bee alſo pad to the uſe of the ſaid Ad<g ref="char:EOLhyphen"/>venturers upon accompt, untill the ſaid Adventurers ſhall
+<pb facs="tcp:155964:4"/>be reimburſed, according to the enſuing Propoſitions, and no longer.</p>
+            <p n="9">9. That all ſuch Cuſtoms, Duties, and Impoſts as have beene uſually paid, or ſhall be thought fit to be paid by any Ordinance of Parliament, for Coals, Salt, and Glaſſe, within the ſaid Towne and County of <hi>New Caſtle,</hi> the ſaid Towne of <hi>Sunderland, Blith,</hi> and the ſaid parts adjacent, ſhall be paid to the uſe of the ſaid Adventurers upon accompt as aforeſaid. That the ſaid Com<g ref="char:EOLhyphen"/>mittee ſhall have power to propound all Officers for the Land-ſervice of this deſigne to the Lord Generall for his approbation of them, who is hereby deſired forthwith to grant Commiſſions to ſuch Officers ſo approved of by him, according to the quality of their ſeverall commands.</p>
+            <p n="10">10. That the ſaid Committee ſhall have power to propound all Officers for the Sea-ſervice of this deſigne to the Commiſſion<g ref="char:EOLhyphen"/>ers of the Admiraltie, and the Earle of <hi>Warwick,</hi> for their approba<g ref="char:EOLhyphen"/>tion, and the ſaid Earle of <hi>Warwick</hi> is deſired for the preſent to give Commiſſions and Inſtructions to the ſeverall Sea-Officers ſo approved of according to the nature of their ſeverall Imploy<g ref="char:EOLhyphen"/>ments.</p>
+            <p n="11">11. That all the Forces that ſhall bee raiſed by Land and Sea for this Expedition, ſhall bee ordered and diſpoſed by the ſaid Committee, yet ſo as the ſaid Land Forces ſhall be ſubject to the command and controll of the Lord Generall and the Lord <hi>Fairfax,</hi> and the Sea Forces ſubject to the command and controll of the Earle of <hi>Warwick,</hi> in ſuch manner as ſhall moſt conduce to this preſent Expedition.</p>
+            <p n="12">12. That when the ſaid Townes of <hi>Newcaſtle, Sunderland,</hi> and <hi>Blith,</hi> and the parts adjacent, now under the power of the Earle of <hi>Newcaſtle,</hi> ſhall be freed from that grievous oppreſſion, and re<g ref="char:EOLhyphen"/>duced under the authority of King and Parliament, then it ſhall be lawfull for the ſaid Committee to pay or cauſe to be paid to every Subſcriber, for every twenty ſhillings which he ſhall have paid in for this ſervice, one pound ſixe ſhillings and eight pence, in ſuch manner as in the enſuing Article is expreſt, and ſo after
+<pb facs="tcp:155964:5"/>that rate for a greater ſum: And for the further incouragement to this Deſigne, It is ordered and ordained, That untill the ſaid. Towns of <hi>Newcaſtle, Sunderland, Blith,</hi> and the ſaid parts adjacent be reduced, the Adventurers ſhall have Intereſt at 8. <hi>per Cent.</hi> for their principall Adventure.</p>
+            <p n="13">13. That all ſuch perſons as within <hi>London,</hi> or within five miles thereof, ſhall ſubſcribe and pay in a third part of the ſum ſubſcribed within ten dayes after theſe Propoſitions ſhall bee a<g ref="char:EOLhyphen"/>greed upon by both Houſes of Parliament, and another third part within twenty eight dayes of ſuch ſubſcription, and the laſt third part within fifty ſixe dayes after ſuch ſubſcription. And all ſuch perſons as in any other Port, City, or Towne, ſhall ſubſcribe and pay in a third part of the ſum ſubſcribed to ſuch perſons as ſhall be appointed by the ſaid Committee to receive the ſaid Subſcriptions and Monies within ten dayes after theſe Propoſiti<g ref="char:EOLhyphen"/>ons ſhall be delivered to the head Officers or head Officer of ſuch Port, City, or Town, and ſhall pay in the other two parts as afore<g ref="char:EOLhyphen"/>ſaid, ſhall be repaid their Moneys together with their proceed by equall proportions: And all ſuch perſons as ſhall ſubſcribe af<g ref="char:EOLhyphen"/>ter the ſaid ſpace of ten dayes, and pay in their Moneys as aforeſaid, ſhall be paid in ſuch order as they ſhall ſubſcribe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:155964:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
